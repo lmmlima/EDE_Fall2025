@@ -47,6 +47,9 @@ vignettes/*.pdf
 
 # Rmd key 
 *_KEY_F2025.Rmd
+*_KEY_2025.Rmd
 *_KEY.Rmd
-_Complete.Rmd
-_Completed.Rmd
+*_Complete.Rmd
+*_complete.Rmd
+*_Completed.Rmd
+*_completed.Rmd
