@@ -44,3 +44,9 @@ vignettes/*.pdf
 
 #Mac files
 .DS_Store
+
+# Rmd key 
+*_KEY_F2025.Rmd
+*_KEY.Rmd
+_Complete.Rmd
+_Completed.Rmd
